@@ -3,8 +3,8 @@
    ========================================================= */
 window.Z = window.Z || {};
 
-/* غيّر الرابط ده لو اسم الخدمة على Render طلع مختلف أو اشتريت دومين */
-Z.SITE = { name: "لو زهقت في الشغل ادخل هنا", url: "https://zehe2t.onrender.com" };
+/* رابط الموقع المنشور على GitHub Pages */
+Z.SITE = { name: "لو زهقت في الشغل ادخل هنا", url: "https://mahmoudallam100-rgb.github.io/zehe2t" };
 
 Z.baseUrl = function () {
   const h = location.host;
