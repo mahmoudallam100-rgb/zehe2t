@@ -1,0 +1,15 @@
+{
+  "name": "لو زهقت في الشغل ادخل هنا",
+  "short_name": "زهقت",
+  "description": "ألعاب دقيقتين، معلومات، وتحدي جديد كل يوم.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#DCE7DE",
+  "theme_color": "#DCE7DE",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
